@@ -1,0 +1,10 @@
+# Ignorar el directorio 'node_modules'
+node_modules/
+
+# Ignorar archivos de configuración de entorno
+.env
+.env.*
+
+# ignorar las imagenes que quiero
+/src/public/img/20201008_185648_1_nocrop.JPEG
+/src/public/img/photo1665462131.jpeg
